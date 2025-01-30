@@ -24,7 +24,7 @@ Este proyecto es parte del desafío Practicando Lógica de Programación de Alur
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/6m3Taig)
+![App Screenshot](https://i.imgur.com/RD4MFDH.png)
 
 ---
 
