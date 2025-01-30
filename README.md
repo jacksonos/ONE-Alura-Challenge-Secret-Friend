@@ -2,7 +2,7 @@
 
 Este proyecto es una sencilla aplicación web para realizar sorteos de amigo secreto. Los usuarios pueden ingresar nombres en un campo de texto, añadirlos a una lista, y luego sortear un nombre de dicha lista para determinar quién será el amigo secreto.
 
-Este proyecto es parte del desafío Practicando Lógica de Programación de Alura | ONE.
+Este proyecto es parte del desafío Practicando Lógica de Programación de Alura | ONE (Oracle Next Education)
 
 ## ✨ Características
 
